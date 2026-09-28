@@ -32,6 +32,7 @@ I'm currently at [Tyce](https://tyce.ai/), where I build agent harnesses for con
 
 A few other things:
 
+- I was on two teams in Cohere Labs' [Tiny Aya Expedition](https://cohere.com/blog/tiny-aya-in-the-wild): [DocuNative](https://github.com/docunative-AI/docunative), a privacy-first, offline document assistant for newcomers, and [Tiny Facade](https://github.com/BakungaBronson/TinyFacade), which runs multilingual tool calling on-device on Android.
 - I graduated from Carleton University as valedictorian with a perfect GPA, earning a B.C.S. Honours in Computer Science and a minor in Mathematics.
 - I started my undergrad at Koç University in Istanbul, studying Computer Engineering and Mathematics, and worked on Turkish LLMs with Deniz Yuret at the KUIS AI Center before transferring to Carleton.
 
