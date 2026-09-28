@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://tyce.ai/'>Tyce</a>
+subtitle: Research Engineer at <a href='https://tyce.ai/'>Tyce</a>
 
 profile:
   align: right

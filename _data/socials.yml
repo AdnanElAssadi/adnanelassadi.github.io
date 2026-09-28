@@ -7,6 +7,10 @@ github_username: AdnanElAssadi # your GitHub user name
 linkedin_username: adnan-el-assadi-3b415b365 # your LinkedIn user name
 x_username: adnanelassadi # your X (formerly Twitter) user name
 scholar_userid: zg6WuFYAAAAJ # your Google Scholar ID
+hugging_face:
+  logo: fa-brands fa-hugging-face
+  title: Hugging Face
+  url: https://huggingface.co/AdnanElAssadi
 # rss_icon: true # comment this line to hide the RSS icon
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
