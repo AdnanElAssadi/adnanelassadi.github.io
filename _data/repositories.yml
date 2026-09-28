@@ -1,5 +1,10 @@
 repo_description_lines_max: 2
 
+# repo cards from these owners show just the repo name
+github_users:
+  - AdnanElAssadi
+  - embeddings-benchmark
+
 github_repos:
   - embeddings-benchmark/mteb
   - harbor-framework/harbor
