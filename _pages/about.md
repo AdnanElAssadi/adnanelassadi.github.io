@@ -32,7 +32,7 @@ I'm currently at [Tyce](https://tyce.ai/), where I build agent harnesses for con
 
 A few other things:
 
-- I graduated from Carleton University as valedictorian, with a B.C.S. Honours in Computer Science and a minor in Mathematics.
+- I graduated from Carleton University as valedictorian with a perfect GPA, earning a B.C.S. Honours in Computer Science and a minor in Mathematics.
 - I started my undergrad at Koç University in Istanbul, studying Computer Engineering and Mathematics, and worked on Turkish LLMs with Deniz Yuret at the KUIS AI Center before transferring to Carleton.
 
 If you'd like to collaborate, or have an opportunity you think I'd be a good fit for, email me at [adnanassadi56@gmail.com](mailto:adnanassadi56@gmail.com).
