@@ -1,6 +1,33 @@
 ---
 ---
 
+@article{enevoldsen2026mgsmsymbolic,
+  abbr        = {arXiv},
+  bibtex_show = {true},
+  title       = {Multilingual GSM-Symbolic: What determines capability transfer across languages?},
+  author      = {Kenneth Enevoldsen and Riley Herchert and Sofie Mosegaard and Dan Saattrup Smart and Simon Enni and Isaac Chung and Sofie Bruun and Ayush Sunil Munot and Max Müller-Eberstein and El Assadi, Adnan and Elisa Bassignana and Gianluca Barmina and Hafsteinn Einarsson and Iben Nyholm Debess and Linda Freienthal and Lukas Galke Poech and Mike Zhang and Nicolas Legrand and Vladimir Salnikov and Yevhen Kostiuk and Zafar Hussain and Sagandeep Kaur and Agnes Toftgård and Marie Mattson and Kristoffer Nielbo},
+  journal     = {arXiv preprint arXiv:2610.03367},
+  year        = {2026},
+  arxiv       = {2610.03367},
+  code        = {https://github.com/centre-for-humanities-computing/multilingual-gsm-symbolic},
+  abstract    = {We understand little about how capabilities acquired in one language carry over to another, or what governs this transfer: evaluations rely on incomparable, saturation-prone datasets and rarely examine its determinants jointly. Identifying what predicts transfer would let us avoid exhaustive evaluation across all language pairs and let developers target the factors that limit performance in low-resource languages. To evaluate cross-lingual capability transfer, we introduce Multilingual GSM-Symbolic, an extensible multilingual mathematical dataset covering 30,000 item-matched question-answer pairs and spanning 15 languages. It utilises symbolic templates to prevent overfitting and ensure generalisation by allowing generation of millions of high-quality variations from a single sample. Using Multilingual GSM-Symbolic, we quantify the largest determinants of capability as model size ($\beta = 1.77$), language resource level ($\beta = 0.77$), reasoning ($\beta = 0.67$) and typological distance ($\beta = -0.25$). This joint estimation allows these determinants to be expressed in terms of one another: a 32B model evaluated in Marathi performs like a 10B model in English. Our findings have important implications for model developers, showing that model size and reasoning narrow the performance gap between low- and high-resource languages ($\beta = -0.27$ and $\beta = -0.20$, respectively), while similar levers have little or no effect on typologically distant languages. Overall, our analysis framework explains 92\% of between-language variation, but only 23\% of the model-by-language variation, and predicts a model's performance on an unseen language within 6.0pp (r=.96). Incorporating measurements from just 10 templates in the target language reduces this to 4.19pp, enabling reasonable estimates of performance with little or no downstream dataset.},
+  selected    = {true}
+}
+
+@article{fu2026incidentarena,
+  abbr        = {arXiv},
+  bibtex_show = {true},
+  title       = {Incident-Arena: Getting agents to the last nine of reliability},
+  author      = {Andre Fu and Malik Drabla and Leon Liu and Meji Abidoye and Marek Šuppa and Lata Mishra and El Assadi, Adnan and Yiyuan Li},
+  journal     = {arXiv preprint arXiv:2610.00648},
+  year        = {2026},
+  arxiv       = {2610.00648},
+  code        = {https://github.com/abundant-ai/incident-arena},
+  website     = {https://incident-arena.com/},
+  abstract    = {AI coding agents are ubiquitous in engineering workflows amongst industry and academia. Yet, despite their use in app coding, relatively less attention has been paid to their ability to execute on production incident response. This emerging field, termed agentic site-reliability-engineering (SRE) contains benchmarks limited by (1) unrealistic environments, typically toy repositories (2) non-standard framework implementations and (3) simple static verifiers. We introduce Incident-Arena, a human-built benchmark of 20 carefully selected tasks grounded in real-world deployed open source software. Each task deploys a production application to an ephemeral Kubernetes cluster, injecting a fault from the config layer through underlying images, and a sustained load profile given the task requirements. We also present a novel verification method, going beyond static checks to functional verifiers, holding systems level metrics stable, while ensuring repairs are done safely. Agent trials run an average of 2.81M tokens and 41 turns, going beyond existing benchmarks, demonstrating agentic long horizon reasoning. Across 20 tasks and 3 application substrates, frontier models score below 64.3\%, with failures extending from diagnosis/localization errors, through incomplete repairs and unsafe regressions.},
+  selected    = {true}
+}
+
 @inproceedings{elassadi2026maeb,
   abbr        = {NeurIPS},
   bibtex_show = {true},
